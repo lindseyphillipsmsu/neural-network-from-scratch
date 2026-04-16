@@ -8,6 +8,10 @@
 
 ---
 
+> 🚧 **Current status:** Actively building. The full network architecture, backpropagation, and training loop are implemented. MNIST binary classification (0 vs 1) is configured and ready to run. Multi-class softmax expansion, tutorial notebooks, and results visualization are next. This repo is my deep dive into understanding what ML frameworks actually do under the hood — each commit reflects real progress, not a finished product.
+
+---
+
 ## What This Is
 
 This is a feedforward neural network built entirely from scratch using only NumPy. No ML frameworks. No `.fit()`. No abstraction layers hiding the actual math.
